@@ -1,5 +1,7 @@
 # todo_app_pemula
 
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/83a812f6-fbca-4531-9639-d1aadb172c2b" />
+
 A new Flutter project.
 
 ## Getting Started
